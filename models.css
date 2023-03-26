@@ -16,7 +16,7 @@ header{
     
 }
 .id-3 {
-    color: rgb(12, 8, 8);
+    color: rgb(22, 14, 14);
     font-weight: 500;
 }
 .logo{
@@ -26,14 +26,6 @@ header{
     right: 660px;
     top: -90px;
 }
-/* nav{
-    
-    display: flex;
-    justify-content: space-between;
-}
-/* .id-2{
-   margin-top: 67px;
-} */ 
 .banner{
     position: relative;
     bottom: 100px;
@@ -41,4 +33,7 @@ header{
 .id-h1{
     font-family: 'Poppins', sans-serif;
     font-weight: 700;
+}
+.id-7{
+    margin-top: 100px;
 }
